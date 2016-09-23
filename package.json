@@ -1,0 +1,27 @@
+{
+  "name": "my-jekyll-site",
+  "version": "1.0.0",
+  "description": "my-jekyll-site for practice",
+  "main": "_site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs0511/my-jekyll-site.git"
+  },
+  "author": "cs0511",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs0511/my-jekyll-site/issues"
+  },
+  "homepage": "https://github.com/cs0511/my-jekyll-site#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.1"
+  }
+}

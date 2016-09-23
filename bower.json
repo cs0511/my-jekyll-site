@@ -1,0 +1,21 @@
+{
+  "name": "my-jekyll-site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cs0511/my-jekyll-site",
+  "authors": [
+    "Song<cs0511@126.com>"
+  ],
+  "description": "my-jekyll-site for practice",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.7"
+  }
+}
