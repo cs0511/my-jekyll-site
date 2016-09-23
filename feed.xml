@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://cs0511.github.io/my-jekyll-site/</link>
-    <atom:link href="http://cs0511.github.io/my-jekyll-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 08:37:18 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 08:37:18 +0800</lastBuildDate>
+    <link>https://cs0511.github.io/my-jekyll-site/</link>
+    <atom:link href="https://cs0511.github.io/my-jekyll-site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Sep 2016 08:39:17 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 08:39:17 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 22 Sep 2016 23:09:25 +0800</pubDate>
-        <link>http://cs0511.github.io/my-jekyll-site/jekyll/update/2016/09/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://cs0511.github.io/my-jekyll-site/jekyll/update/2016/09/22/welcome-to-jekyll.html</guid>
+        <link>https://cs0511.github.io/my-jekyll-site/jekyll/update/2016/09/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://cs0511.github.io/my-jekyll-site/jekyll/update/2016/09/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
